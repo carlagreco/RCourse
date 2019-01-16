@@ -2,3 +2,11 @@
 ###---by Carla Greco---###
 ###--------------------###
 
+#Script for R course
+##
+
+ds <- read.csv("growth.csv")
+
+
+
+
